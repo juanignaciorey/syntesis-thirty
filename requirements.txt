@@ -1,0 +1,7 @@
+pandas
+requests
+time
+datetime
+numpy
+matplotlib
+pandas_datareader
